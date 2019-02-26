@@ -1,0 +1,11 @@
+C:\Users\Den\source\repos\InternetAccess\InternetAccess\bin\Debug\InternetAccess.exe.config
+C:\Users\Den\source\repos\InternetAccess\InternetAccess\bin\Debug\InternetAccess.exe
+C:\Users\Den\source\repos\InternetAccess\InternetAccess\bin\Debug\InternetAccess.pdb
+C:\Users\Den\source\repos\InternetAccess\InternetAccess\obj\Debug\InternetAccess.csprojAssemblyReference.cache
+C:\Users\Den\source\repos\InternetAccess\InternetAccess\obj\Debug\InternetAccess.csproj.CoreCompileInputs.cache
+C:\Users\Den\source\repos\InternetAccess\InternetAccess\obj\Debug\InternetAccess.exe
+C:\Users\Den\source\repos\InternetAccess\InternetAccess\obj\Debug\InternetAccess.pdb
+C:\Users\Den\source\repos\InternetAccess\InternetAccess\bin\Debug\System.Data.SQLite.dll
+C:\Users\Den\source\repos\InternetAccess\InternetAccess\bin\Debug\System.Data.SQLite.xml
+C:\Users\Den\source\repos\InternetAccess\InternetAccess\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Den\source\repos\InternetAccess\InternetAccess\obj\Debug\InternetAccess.csproj.CopyComplete
